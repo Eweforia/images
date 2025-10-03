@@ -7,8 +7,8 @@ First, you need to create a repository.
 6. Click Create repository.
 
 Repositories are listed in the left pane on the Dashboard. You can also click the sandwich on the top left and see a list of repositories at the bottom.
-
 I created a repository named images.
+
 To upload a new image, click the Add file button (to the left of the green Code button). Then click Upload files.
 You can drag files from your hard drive or copy/paste. 
 Github assigns the name "image.png." (Any esxisting file named image.png will be overwritten.) 

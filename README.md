@@ -34,3 +34,17 @@ Github displays "Binary file content is not editable. But you can still rename o
 2. Right-click the image preview and select “Copy image address” or “Copy image URL” (the wording may vary by browser).
 
 This gives you a direct link to the raw image file.
+
+**Troubleshooting Tips:**
+**Problem:** I don't see an "add file" button in my repository's main page.
+If you do not see the “Add file” button on your repository’s main page on GitHub, your repository is probably completely empty (no README.md or any image file). GitHub hides most UI options—including “Add file”—until at least one file exists.
+**Solution:**
+1. Click the button that says “creating a new file” or “uploading an existing file”.
+2. Click “uploading an existing file.”
+Now you can drag and drop your images to upload them.
+3. Or, click “creating a new file,” create a README. md, and commit it. After that, the “Add file” button will appear on the main page.
+
+**Problem:** I don't see a Green code button.
+**Solution:** If you don't see the Green code button, you need to reinitialize the repository (for lack of a better phrase).
+1. Click the icon with the three lines at the top left of the Github page and select Home.  
+2. Select the repository from the list in the left pane to display your files. You should be able to see the Green code button now.

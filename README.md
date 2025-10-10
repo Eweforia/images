@@ -36,6 +36,7 @@ Github displays "Binary file content is not editable. But you can still rename o
 This gives you a direct link to the raw image file.
 
 **Troubleshooting Tips:**
+
 **Problem:** I don't see an "add file" button in my repository's main page.
 If you do not see the “Add file” button on your repository’s main page on GitHub, your repository is probably completely empty (no README.md or any image file). GitHub hides most UI options—including “Add file”—until at least one file exists.
 **Solution:**
